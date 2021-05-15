@@ -1,4 +1,4 @@
-let MAZE_SIZE = prompt("Maze size? (Try 60)");
+let MAZE_SIZE = prompt("Maze size? (Try 50)");
 
 const cellsize = ~~(window.innerWidth / MAZE_SIZE),
 			spacing = 2*cellsize,
